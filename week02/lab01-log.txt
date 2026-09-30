@@ -1,0 +1,242 @@
+    1  python3 --version
+    2  pwd
+    3  ```bash
+    4  ```bash
+    5  pwd
+    6  ls
+    7  ls -a
+    8  ls -l
+    9  ```
+   10  ```bash
+   11  pwd
+   12  ```
+   13  ```bash
+   14  pwd
+   15  ```
+   16  ```bash
+   17  bash
+   18  ```
+   19  pwd
+   20  $ pwd
+   21  ```bash
+   22  $ pwd
+   23  111
+   24  ```
+   25  ```bash
+   26  pwd
+   27  ```
+   28  wsl --version
+   29  ```bash
+   30  sudo pwd
+   31  ```
+   32  pwd
+   33  ;s -a
+   34  ls -a
+   35  ```bash
+   36  pwd
+   37  ls -a
+   38  ```
+   39  pwd
+   40  pwd ls
+   41  ```bash
+   42  pwd ls
+   43  ```
+   44  pwd
+   45  ls
+   46  ls -a
+   47  ```bash
+   48  pwd
+   49  ```
+   50  Bash
+   51  bash pwd
+   52  bash ls
+   53  ```bash
+   54  pwd ```
+   55  pwd
+   56  bash
+   57  pwd
+   58  '''bash
+   59  pwd
+   60  ls -a
+   61  ls
+   62  ```
+   63  ```
+   64  '''
+   65  bash
+   66  pwd
+   67  ```bash
+   68  pwd
+   69  ls
+   70  ```
+   71  pwd
+   72  ls
+   73  ls -a
+   74  ls -l
+   75  cd ~
+   76  la coding-cafe/week02
+   77  mkdir
+   78  cd
+   79  touch
+   80  ls
+   81  ``` bash pwd ```
+   82  bash pwd
+   83  ``` bash pwd
+   84  ```
+   85  pwd
+   86  ls
+   87  la -a
+   88  ls -a
+   89  ls -l
+   90  ```bash
+   91  pwd
+   92  ```
+   93  ``` bash pwd ```
+   94  pwd
+   95  ``` pwd ```
+   96  ``` ls ```
+   97  ``` ls -a ```
+   98  ``` bash ls ```
+   99  ``` ls ```
+  100  pwd
+  101  ```bash
+  102  pwd
+  103  ```
+  104  man sudo_details
+  105  man sudo_root
+  106  sudo pwd
+  107  ls
+  108  sudo ls
+  109  pwd
+  110  ls
+  111  wsl 
+  112  pwd
+  113  ls
+  114  ls -a
+  115  ls -l
+  116  mkdir
+  117  mkdir cd touch ls
+  118  cd `
+  119  `
+  120  cd ~
+  121  pwd
+  122  ls
+  123  cd ls
+  124  ls
+  125  ls -a
+  126  ls p
+  127  ls -l
+  128  pwd
+  129  ls 
+  130  ls -a
+  131  ls -l
+  132  pwd
+  133  ls
+  134  ls -a
+  135  ls -l
+  136  ls
+  137  pwd
+  138  ls
+  139  $env:Path
+  140  echo $path
+  141  echo $PATH
+  142  ls
+  143  cd `
+  144  `
+  145  cd ~
+  146  pwd
+  147  mkdir
+  148  mkdir coding-cafe
+  149  pwd
+  150  cd codiing-cafe
+  151  cd coding-cafe
+  152  pwd
+  153  mkdir week01
+  154  mkdir week02
+  155  cd week02
+  156  touch notes.md
+  157  ls
+  158  ls coding-cafe/week02
+  159  ls coding-cafe
+  160  cd ~
+  161  ls coding-cafe/week02
+  162  cd coding-cafe
+  163  touch README.md
+  164  ls
+  165  cd week02
+  166  ls
+  167  ni notees.md
+  168  ls -R coding-cafe
+  169  cd ~
+  170  ls -R coding-cafe
+  171  cd coding-cafe
+  172  cp README.md README-backup.md
+  173  ls
+  174  mv README-backup.md week01
+  175  ls
+  176  cd week01
+  177  ls
+  178  cd coding-cafe
+  179  cd ~
+  180  cd coding-cafe
+  181  cd week01
+  182  mv README-backup.md old-readme.md
+  183  ls
+  184  rm old-readme.md
+  185  ls
+  186  cd ~
+  187  echo $PATH
+  188  which python3
+  189  which pip
+  190  which ls
+  191  pyton3
+  192  cd ~/coding-cafe
+  193  python3 -m venv .venv
+  194  echo $path
+  195  echo $PATH
+  196  cd ~
+  197  echo $PATH
+  198  sudo apt install python3.12-venv
+  199  echo PATH
+  200  ls
+  201  cd ~
+  202  ls
+  203  cd coding_cafe
+  204  pwd
+  205  ls
+  206  ls -a
+  207  ls -l
+  208  ls -R coding-cafe
+  209  cd ~
+  210  ls -Rcoding-cafe
+  211  ls -R coding-cafe
+  212  echo $PATH
+  213  which python3
+  214  which pip
+  215  which ls
+  216  pyton3
+  217  cd ~/coding-cafe
+  218  python3 -m venv .venv
+  219  sudo apt update && sudo apt install python3.12-venv
+  220  python3 -m venv .venv
+  221  source .venv/bin/activate
+  222  python3 -m venv .venv
+  223  source .venv/bin/activate
+  224  ls
+  225  ls -a
+  226  which python3
+  227  pip list
+  228  pip install requests
+  229  pip list
+  230  deactivate
+  231  which python
+  232  cd ~
+  233  which python
+  234  which python3
+  235  man ls
+  236  man man
+  237  history
+  238  python3
+  239  history > week02/lab01-log.txt
+  240  cd coding-cafe/
+  241  histroy > week02/lab01-log.txt
+  242  history > week02/lab01-log.txt
